@@ -1,0 +1,1 @@
+{"name":"whatsapp-bot","version":"1.0.0","description":"WhatsApp Bot with admin commands and auto-messaging","main":"bot.js","scripts":{"start":"node bot.js"},"dependencies":{"@whiskeysockets/baileys":"^6.2.0","qrcode-terminal":"^0.12.0"},"author":"ekincimiran12-tech","license":"ISC"}
